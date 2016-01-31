@@ -20,3 +20,4 @@ labs(x = "Number of ways name can be spelt using chemical symbols", y = "Percent
 scale_y_continuous(labels=percent, breaks=(1:14)*0.01)
 
 ggsave("elemental-names.pdf")
+ggsave("elemental-names.png")

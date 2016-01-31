@@ -13,7 +13,7 @@ This document quantifies it some more.
 
 ## Results
 
-![Proportion of names that can be spelt using elemental symbols. ](elemental-names.pdf)
+![Proportion of names that can be spelt using elemental symbols. ](elemental-names.png)
 
 Of the 4275 most common *female first names* reported in the 1990 US census (``girl-names``), 710 (16.6%) can be spelt using chemical symbols.
 
